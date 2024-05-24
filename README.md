@@ -1,4 +1,12 @@
-# 2024-1 oss lecture    
+# 2024-1 oss lecture  
+
+<div>
+<img src="![image](https://github.com/BaekJunehong/oss-git-pratice/assets/101456289/e38170f3-8016-489b-bb07-cf9f6e390a4c)
+" width="90%"></img>
+<img src="![image](https://github.com/BaekJunehong/oss-git-pratice/assets/101456289/085e8562-c197-4c98-b7c5-812a28f726cf)
+" width="90%"></img>
+</div>
+
 ## Context    
 ### 이름 및 학번    
 - 백준홍
