@@ -2,8 +2,8 @@
 
 <div>  
 
-![image](https://github.com/BaekJunehong/oss-git-pratice/assets/101456289/94bea07d-2aa3-4109-ae88-339bedc242c3.png) 
-![image](https://github.com/BaekJunehong/oss-git-pratice/assets/101456289/085e8562-c197-4c98-b7c5-812a28f726cf.png)  
+<img src="https://github.com/BaekJunehong/oss-git-pratice/assets/101456289/94bea07d-2aa3-4109-ae88-339bedc242c3.png" width="90%"></img>
+<img src="https://github.com/BaekJunehong/oss-git-pratice/assets/101456289/085e8562-c197-4c98-b7c5-812a28f726cf.png" width="90%"></img> 
 
 </div>
 
