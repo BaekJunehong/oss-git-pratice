@@ -1,9 +1,9 @@
-# 2024-1 oss lecture  
+# 2024-1 Oss Lecture  
 
 <div>  
-  
-![image](https://github.com/BaekJunehong/oss-git-pratice/assets/101456289/085e8562-c197-4c98-b7c5-812a28f726cf.png)  
+
 ![image](https://github.com/BaekJunehong/oss-git-pratice/assets/101456289/94bea07d-2aa3-4109-ae88-339bedc242c3.png) 
+![image](https://github.com/BaekJunehong/oss-git-pratice/assets/101456289/085e8562-c197-4c98-b7c5-812a28f726cf.png)  
 
 </div>
 
