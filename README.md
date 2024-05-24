@@ -13,7 +13,7 @@ data -> 실습에 사용된 파일
 | 주차 | 강의범위 및 내용 | 수업내용 |  
 | ------ | ------ | ------ |  
 | 제 1주 | Intro. What is git? |  
-| 제 2주 | Markup Language |  [week2]([https://nodejs.org/](https://github.com/BaekJunehong/oss-git-pratice/blob/main/notes/w02.md)) |   
+| 제 2주 | Markup Language |  [week2]([https://github.com/BaekJunehong/oss-git-pratice/blob/main/notes/w02.md)] |   
 | 제 3주 | 버전 관리 |  
 | 제 4주 | 브랜치 |  
 | 제 5주 | 깃허브 |  
