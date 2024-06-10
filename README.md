@@ -33,9 +33,9 @@
 | 제 10주 | find 사용법: 파일 다루기  |
 | 제 11주 | awk 사용법: 특정 인텍스 문자열 출력하기 | [week11](https://github.com/BaekJunehong/oss-git-pratice/blob/main/notes/w11.md) | 
 | 제 12주 | sed 사용법: 찾은 문자열 바꾸기 | [week12](https://github.com/BaekJunehong/oss-git-pratice/blob/main/notes/w12.md) | 
-| 제 13주 | date 사용법: 날짜, 시간  | 
-| 제 14주 | 프로젝트 |
-| 제 15주 | Final  |  
+| 제 13주 | date 사용법: 날짜, 시간  | [week13](https://github.com/BaekJunehong/oss-git-pratice/blob/main/notes/w13.md) | 
+| 제 14주 | 프로젝트 | [week14](https://github.com/BaekJunehong/oss-git-pratice/blob/main/notes/w14.md) |
+| 제 15주 | Final  | [week15](https://github.com/BaekJunehong/oss-git-pratice/blob/main/notes/w15.md) |  
 
 
 .  
